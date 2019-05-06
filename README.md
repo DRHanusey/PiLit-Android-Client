@@ -1,3 +1,5 @@
+See PiLit-Android-Client1 for updated version
+
 # PiLit-Android-Client
 Android client app that allwos for control of LED light strips and the creation of custom light configurations.
 
